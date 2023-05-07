@@ -32,3 +32,11 @@ Follow instructions on project website:
 ## What works perfectly:
 - wifi - connects and transmit
 - bluetooth - not tested with bluetooth devices
+
+---
+
+*Update - the Xcode simulator works (full_EFI) in headless
+it does not display image, to repair that I will follow thread:
+[https://github.com/chris1111/Geforce-Kepler-patcher/issues/29]
+And opencore instructions:
+[https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/#getting-started]
